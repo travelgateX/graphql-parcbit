@@ -53,10 +53,10 @@ layout : center
 #
 transition : none
 
-#
-# Twitter Card Settings
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
+# #
+# # Twitter Card Settings
+# # Doc: https://gitpitch.com/docs/settings/twitter-card
+# #
 title : "GraphQL TravelgateX's experience"
 description : "GraphQL, the Facebook's language applied to travel"
 thumbnail : https://wwwhatsnew.com/wp-content/uploads/2018/04/sshot-117-730x382.jpg
