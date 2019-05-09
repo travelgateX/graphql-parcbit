@@ -31,11 +31,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-<<<<<<< HEAD
-footnote : "GraphQL, the Facebook's language applied to travel"
-=======
 footnote : "GraphQL - The TravelgateX's experience"
->>>>>>> 8e834ac4c193e6f3bd3db321a5b79845968b382e
 
 #
 # Highlight (Code) Setting
@@ -57,7 +53,6 @@ layout : center
 #
 transition : none
 
-<<<<<<< HEAD
 #
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
@@ -65,12 +60,3 @@ transition : none
 title : "GraphQL TravelgateX's experience"
 description : "GraphQL, the Facebook's language applied to travel"
 thumbnail : https://wwwhatsnew.com/wp-content/uploads/2018/04/sshot-117-730x382.jpg
-=======
-# #
-# # Twitter Card Settings
-# # Doc: https://gitpitch.com/docs/settings/twitter-card
-# #
-# title : "GitPitch - The Quickstart Template"
-# description : "High-utility markdown slide templates for GitPitch presentation authors."
-# thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
->>>>>>> 8e834ac4c193e6f3bd3db321a5b79845968b382e
