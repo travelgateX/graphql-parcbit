@@ -1,4 +1,3 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
 <!--
@@ -16,56 +15,24 @@ GraphQL<br>*by TravelgateX*
 GraphQL, the Facebook's language applied to travel
 @snapend
 
----
-@title[Slide Markdown]
+---?include=template/md/the-agenda/PITCHME.md
 
-### Each slide in this presentation is provided as a *template*.
+---?include=template/md/about-us/PITCHME.md
 
-<br><br>
+---?include=template/md/graphql/PITCHME.md
 
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
+---?include=template/md/xperience/PITCHME.md
 
----
-@title[Tip! Fullscreen]
+---?include=template/md/time-to-code/PITCHME.md
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
+---?include=template/md/questions/PITCHME.md
 
 ---?image=template/img/presenter.jpg
-@title[The Template Docs]
+@title[The End??]
 
 @snap[west sign-off]
 ### Now it's your turn.
-@snapend
+#### [GitHub.com/TravelgateX/graphql-parcbit](https://github.com/travelgatex/graphql-parcbit)
 
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+
 @snapend
