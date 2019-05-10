@@ -38,5 +38,3 @@
 @ulend
 <br><br>
 @snapend
-
----?include=template/md/lab/PITCHME.md
