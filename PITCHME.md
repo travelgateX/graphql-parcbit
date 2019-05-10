@@ -25,6 +25,8 @@ GraphQL, the Facebook's language applied to travel
 
 ---?include=template/md/time-to-code/PITCHME.md
 
+---?include=template/md/labx/PITCHME.md
+
 ---?include=template/md/questions/PITCHME.md
 
 ---?image=template/img/presenter.jpg
