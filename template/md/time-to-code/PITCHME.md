@@ -16,7 +16,7 @@
 <br><br>
 @snapend
 
-@title[labX]
+---@title[labX]
 
 ## @color[white](labX)
 
