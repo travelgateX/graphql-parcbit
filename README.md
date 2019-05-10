@@ -1,8 +1,7 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/travelgatex/graphql-parcbi)
 
-# GitPitch - The Template
+# GraphQL by TravelgateX
 
-*THE FASTEST WAY FROM IDEA TO PRESENTATION*
+*GraphQL, the Facebook's language applied to travel*
 
-For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
-
+[https://gitpitch.com/travelgatex/graphql-parcbit](https://gitpitch.com/travelgatex/graphql-parcbit)
