@@ -7,7 +7,7 @@ Step 2. Start adding your own custom slide content.
 Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
-@snap[west text-25 text-bold text-white]
+@snap[west roboto text-25 text-bold text-white]
 GraphQL<br>by TravelgateX
 @snapend
 

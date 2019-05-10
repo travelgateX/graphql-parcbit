@@ -124,7 +124,7 @@
   font-size: 0.6em !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
-  font-family: "Roboto", Arial, Helvetica, sans-serif !important;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
 }
 
 .contact-email {
@@ -249,4 +249,19 @@ div.docslink a:hover {
   border-radius: 15px;
   opacity: 0.75 !important;
   font-size: 50% !important;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/roboto-normal.woff2') format('woff2'),
+       url('/assets/fonts/roboto-normal.woff') format('woff');
+}
+
+.roboto,
+.roboto * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Roboto", sans-serif !important;
 }
