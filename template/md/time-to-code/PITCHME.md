@@ -15,3 +15,10 @@
 @ulend
 <br><br>
 @snapend
+
++++?image=template/img/bg/blue.jpg&position=left&size=30% 50%
+@title[Sidebox + Heading]
+
+@snap[west text-white]
+@size[3em](A.)
+@snapend
