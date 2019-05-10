@@ -8,7 +8,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-GraphQL<br>*by TravelgateX*
+GraphQL<br>by TRAVELGATEX
 @snapend
 
 @snap[south-west byline text-white text-06]
